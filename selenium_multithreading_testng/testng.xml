@@ -8,38 +8,38 @@
 	<test name="Chrome Browser">
 		<parameter name="browserType" value="chrome"></parameter>
 		<classes>
-			<class name="testcases.Testcase1" />
+			<class name="testcases.MailinatorTest" />
 		</classes>
 	</test>
 	<test name="Firefox Browser">
 		<parameter name="browserType" value="firefox"></parameter>
 		<classes>
-			<class name="testcases.Testcase1" />
+			<class name="testcases.MailinatorTest" />
 		</classes>
 	</test>
 	<test name="Edge Browser">
 		<parameter name="browserType" value="edge"></parameter>
 		<classes>
-			<class name="testcases.Testcase1" />
+			<class name="testcases.MailinatorTest" />
 		</classes>
 	</test>
 
 	<test name="Chrome Browser2">
 		<parameter name="browserType" value="chrome"></parameter>
 		<classes>
-			<class name="testcases.Testcase1" />
+			<class name="testcases.MailinatorTest" />
 		</classes>
 	</test>
 	<test name="Firefox Browser2">
 		<parameter name="browserType" value="firefox"></parameter>
 		<classes>
-			<class name="testcases.Testcase1" />
+			<class name="testcases.MailinatorTest" />
 		</classes>
 	</test>
 	<test name="Edge Browser2">
 		<parameter name="browserType" value="edge"></parameter>
 		<classes>
-			<class name="testcases.Testcase1" />
+			<class name="testcases.MailinatorTest" />
 		</classes>
 	</test>
 </suite> <!-- Suite -->

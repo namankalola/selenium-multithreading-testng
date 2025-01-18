@@ -1,0 +1,384 @@
+Dec 14, 2024 7:55:05 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:55:06 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:55:09 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:55:09 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:55:10 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:55:10 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:55:12 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:55:12 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:55:12 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:55:12 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:55:13 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:55:13 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:55:13 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:55:13 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:55:14 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:55:15 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:55:15 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:55:15 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:57:05 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:57:06 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:57:06 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:57:06 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:57:06 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:57:06 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:57:06 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:57:07 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:57:08 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:57:08 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:57:09 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:57:09 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:57:10 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:57:10 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:57:11 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:57:12 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:57:12 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:57:13 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:58:56 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:58:58 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:58:58 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:58:59 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:58:59 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:59:00 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:59:00 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:59:00 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:59:01 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:59:01 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:59:01 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:59:02 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:59:02 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:59:02 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:59:04 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 7:59:04 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 7:59:04 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 7:59:06 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 8:22:00 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 14, 2024 8:22:01 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 14, 2024 8:22:01 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 14, 2024 8:22:03 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 14, 2024 8:22:03 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 8:22:10 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 14, 2024 8:22:10 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 14, 2024 8:22:13 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 8:22:15 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 8:22:15 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 8:22:15 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 8:22:15 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 8:22:16 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 8:22:16 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 8:22:16 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 8:22:17 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 8:22:18 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 8:22:18 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 8:22:18 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 8:22:18 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 8:22:19 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 14, 2024 8:22:21 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 14, 2024 8:22:21 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 14, 2024 8:22:22 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 6:21:11 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 6:21:11 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 6:21:16 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 6:21:16 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 6:21:19 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 6:21:19 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 6:21:21 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 6:21:21 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 6:21:30 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 6:21:30 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 6:21:31 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 6:21:36 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 6:21:36 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 6:21:36 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 6:21:36 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 6:21:37 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 6:21:37 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 6:21:39 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 6:21:41 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 6:21:41 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 6:21:42 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 6:21:45 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 6:21:45 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 6:21:47 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 8:38:57 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 8:39:00 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 8:39:01 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 8:39:05 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 8:39:05 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 8:39:05 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 8:39:05 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 8:39:08 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 8:39:08 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 8:39:10 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 8:39:10 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 8:39:11 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Dec 24, 2024 8:39:11 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 8:39:11 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 8:39:12 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 8:39:13 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 8:39:16 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Dec 24, 2024 8:39:19 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 8:39:20 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 8:39:21 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Dec 24, 2024 8:39:23 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 8:39:23 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 8:39:23 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 8:39:23 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 8:39:23 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 8:39:24 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 8:39:24 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Dec 24, 2024 8:39:26 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 8:39:26 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Dec 24, 2024 8:39:28 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Dec 24, 2024 8:40:44 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 8:40:45 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 8:40:45 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 8:40:49 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 8:40:54 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 8:40:54 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Dec 24, 2024 8:40:56 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 8:40:59 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 8:40:59 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 8:40:59 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 8:40:59 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 8:40:59 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 8:40:59 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 8:40:59 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 8:41:00 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 8:41:00 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 8:41:01 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 8:41:01 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 8:41:01 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 8:41:01 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 8:41:02 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Dec 24, 2024 8:41:02 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Dec 24, 2024 8:41:03 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Dec 24, 2024 8:41:03 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Dec 24, 2024 8:41:04 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 8:41:04 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Dec 24, 2024 8:41:04 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Dec 24, 2024 8:41:04 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Dec 24, 2024 8:41:05 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Dec 24, 2024 8:41:06 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Jan 18, 2025 9:48:44 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Jan 18, 2025 9:48:44 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Jan 18, 2025 9:48:49 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Jan 18, 2025 9:48:49 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Jan 18, 2025 9:48:49 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Jan 18, 2025 9:48:50 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Jan 18, 2025 9:48:51 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Jan 18, 2025 9:48:51 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Jan 18, 2025 9:48:54 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Jan 18, 2025 9:48:54 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Jan 18, 2025 9:49:13 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Jan 18, 2025 9:49:13 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Jan 18, 2025 9:49:18 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Jan 18, 2025 9:49:19 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Jan 18, 2025 9:49:23 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Jan 18, 2025 9:49:24 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Jan 18, 2025 9:49:25 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Validate Email Search Functionality
+Jan 18, 2025 9:49:25 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Jan 18, 2025 9:49:33 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Jan 18, 2025 9:49:33 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Jan 18, 2025 9:49:35 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Jan 18, 2025 9:49:35 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Jan 18, 2025 9:49:37 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Jan 18, 2025 9:49:38 PM webUtilities.TextBox enterText
+INFO: Entering text: 'testing' into element: By.id: search
+Jan 18, 2025 9:49:38 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Jan 18, 2025 9:49:38 PM webUtilities.Elements click
+INFO: Clicking element: By.xpath: //button[text()='GO']
+Jan 18, 2025 9:49:41 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Jan 18, 2025 9:49:41 PM webUtilities.Elements isDisplayed
+INFO: Checking if element is displayed: By.xpath: //tr[@ng-repeat='email in emails']
+Jan 18, 2025 9:49:42 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject
+Jan 18, 2025 9:49:42 PM utilities.ExtentReport onTestStart
+INFO: TEST STARTED : Get email OPT for given email and subject

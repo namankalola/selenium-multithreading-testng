@@ -1,14 +1,12 @@
 package utilities;
 
-import java.io.File;
+import java.util.logging.Logger;
 
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Parameters;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
@@ -19,7 +17,7 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
 public class ExtentReport implements ITestListener {
 	private static ExtentReports extent;
 	private static ThreadLocal<ExtentTest> test = new ThreadLocal<>();
-	private String browserType;
+	protected static final Logger logger = LoggerManager.getLogger();
 
 	@Override
 	public void onStart(ITestContext context) {
@@ -41,7 +39,14 @@ public class ExtentReport implements ITestListener {
 
 	@Override
 	public void onTestStart(ITestResult result) {
-		ExtentTest extentTest = extent.createTest(result.getMethod().getMethodName());
+		String browserType = result.getTestContext().getCurrentXmlTest().getParameter("browserType");
+		String testDescription = result.getMethod().getDescription();
+		logger.info("TEST STARTED : " + testDescription);
+		String testName = (testDescription != null && !testDescription.isEmpty()) ? testDescription
+				: result.getMethod().getMethodName();
+
+		ExtentTest extentTest = extent.createTest(testName + " - [" + browserType + "]");
+		extentTest.assignCategory(browserType);
 		test.set(extentTest);
 	}
 
@@ -50,20 +55,11 @@ public class ExtentReport implements ITestListener {
 		test.get().pass("Test Passed");
 	}
 
-	@Parameters("browserType")
-	@BeforeTest
-	public void setUp(String browserType) {
-		this.browserType = browserType;
-		System.out.println("Running tests on browser: " + browserType);
-	}
-
 	@Override
 	public void onTestFailure(ITestResult result) {
 		try {
-			// Get the test method name (or step name)
 			String methodName = result.getMethod().getMethodName();
-
-			// Capture screenshot as Base64
+			String browserType = result.getTestContext().getCurrentXmlTest().getParameter("browserType");
 			String base64Screenshot = ((TakesScreenshot) WebDriverManagerThread.getInstance(browserType).getDriver())
 					.getScreenshotAs(OutputType.BASE64);
 
@@ -87,5 +83,4 @@ public class ExtentReport implements ITestListener {
 			extent.flush();
 		}
 	}
-
 }
