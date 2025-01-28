@@ -113,8 +113,9 @@ public class Base {
 		File repoDir = new File(dir);
 		runCommand("git add --all", repoDir);
 		System.out.println("All changes staged.");
+		String timestamp = new SimpleDateFormat("yyyy-MM-dd_HH-mm-ss").format(new Date());
 
-		runCommand("git commit -m \"" + commitMessage + "\"", repoDir);
+		runCommand("git commit -m \"" + commitMessage + " "+timestamp +"\"", repoDir);
 		System.out.println("Changes committed.");
 
 		runCommand("git push ", repoDir);
